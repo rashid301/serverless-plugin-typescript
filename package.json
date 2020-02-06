@@ -1,5 +1,5 @@
 {
-  "name": "serverless-plugin-typescript",
+  "name": "serverless-typescript",
   "version": "1.0.1",
   "license": "MIT",
   "main": "dist/src/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prisma/serverless-plugin-typescript.git"
+    "url": "git+https://github.com/rashid301/serverless-plugin-typescript.git"
   },
   "keywords": [
     "serverless",
